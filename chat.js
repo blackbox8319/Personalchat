@@ -9,8 +9,8 @@
 
 
   let connection;
- const rtHubURL = "https://localhost:50090/chat";
- //const rtHubURL = "https://chatsvcdev.interacers.com/chat";
+ //const rtHubURL = "https://localhost:50090/chat";
+ const rtHubURL = "https://chatsvcdev.interacers.com/chat";
 
   const hubOptions = { 
       skipNegotiation: true,
